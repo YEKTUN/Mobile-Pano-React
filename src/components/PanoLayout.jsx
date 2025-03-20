@@ -29,7 +29,7 @@ import SubformPropertiesPanel from "./utils/propertiesPanels/SubformPropertiesPa
 import TimeStampPropertiesPanel from "./utils/propertiesPanels/TimeStampPropertiesPanel";
 import TogglePropertiesPanel from "./utils/propertiesPanels/TogglePropertiesPanel";
 import UniqueIdPropertiesPanel from "./utils/propertiesPanels/UniqueIdPropertiesPanel";
-import VideoPropertiesPanel from "./utils/propertiesPanels/VideopropertiesPanel";
+import VideoPropertiesPanel from "./utils/propertiesPanels/VideoPropertiesPanel";
 import WebLinkPropertiesPanel from "./utils/propertiesPanels/WebLinkPropertiesPanel";
 import { ToastContainer } from "react-toastify";
 
